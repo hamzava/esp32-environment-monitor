@@ -10,12 +10,12 @@ This project is an ESP32-based environment monitoring system designed to acquire
 
 The prototype was intentionally designed to demonstrate **end-to-end embedded system competence**, spanning:
 
-✔ Multi Layer PCB & hardware design
-✔ ESP-IDF firmware development
-✔ Clean separation between drivers and application logic
-✔ Peripheral communication via I2C
-✔ Power supply and regulation strategy
-✔ Scalable software architecture for future networking features
+ ✔ Multi Layer PCB & hardware design
+ ✔ ESP-IDF firmware development
+ ✔ Clean separation between drivers and application logic
+ ✔ Peripheral communication via I2C
+ ✔ Power supply and regulation strategy
+ ✔ Scalable software architecture for future networking features
 
 ---
 
