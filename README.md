@@ -23,8 +23,8 @@ The prototype was intentionally designed to demonstrate **end-to-end embedded sy
 At present, the system is 100% functional in its current scope, while the overall project aim is approximately 70% complete, with key networking features planned as the next phase.
 
 ## ✅ Completed / Implemented
-- ◆ Fully operational Embedded System
-- - from working 4 layer PCB to a running ESP-IDF Super Loop
+◆ Fully operational Embedded System <br /> 
+   from working 4 layer PCB to a running ESP-IDF Super Loop <br /> 
 
 ## 🚧 In Progress / Planned Enhancements
  ◆ Migration to FreeRTOS-Based Architecture <br />
