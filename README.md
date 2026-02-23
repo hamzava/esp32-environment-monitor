@@ -24,7 +24,7 @@ At present, the system is 100% functional in its current scope, while the overal
 
 ## ✅ Completed / Implemented
 ◆ Fully operational Embedded System <br /> 
-   from working 4 layer PCB to a running ESP-IDF Super Loop <br /> 
+  from custom 4-layer PCB hardware to a functioning ESP-IDF super-loop firmware. <br /> 
 
 ## 🚧 In Progress / Planned Enhancements
  ◆ Migration to FreeRTOS-Based Architecture <br />
