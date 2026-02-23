@@ -27,9 +27,9 @@ At present, the system is 100% functional in its current scope, while the overal
 - ◆ ESP-IDF Super Loop Implementation
 
 ## 🚧 In Progress / Planned Enhancements
- ◆ Migration to FreeRTOS-Based Architecture
- ◆ WiFi Integration
- ◆ MQTT Communication
+ ◆ Migration to FreeRTOS-Based Architecture <br />
+ ◆ WiFi Integration <br />
+ ◆ MQTT Communication <br />
 
 ---
 
