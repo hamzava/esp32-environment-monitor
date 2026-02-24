@@ -7,7 +7,7 @@
 
 🟥 This project is a Environment Monitor prototype built using:
 
- - **ESP-32** & **ESP-IDF** 
+ - ESP-32 & ESP-IDF
  - BME280 Atmosphere Sensor
  - LTR390 UV Sensor
 
