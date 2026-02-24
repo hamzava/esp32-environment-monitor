@@ -21,9 +21,9 @@ This prototype is focused on:
 ✔ Power supply and regulation strategy </br>
 
 ## ◆ Current Status:
-- Fully operational Embedded System from working 4 layer PCB to a running ESP-IDF Super Loop <br />
+- Fully operational Embedded System from working 4 layer PCB to a running ESP-IDF Super Loop
 
-◆ Project Aims & Development Roadmap <br />
+## ◆ Project Aims & Development Roadmap <br />
 - This project was structured around incremental, demonstrable milestones, rather than a single monolithic goal.
 
 ## ✅ Completed / Implemented: 
