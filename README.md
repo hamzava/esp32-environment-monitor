@@ -1,7 +1,7 @@
 # 🌱 ESP32 Environment Monitoring System
 ### Using ESP32 + ESP-IDF + I2C Sensors
 
-◆ This project represents an exploration into embedded firmware architecture, low-power hardware design, and communication protocol integration using the ESP32 platform and the ESP-IDF framework.
+🟢 This project represents an exploration into embedded firmware architecture, multi layer hardware design, and communication protocol integration using the ESP32 platform and the ESP-IDF framework.
 
 ## ◆ Project Overview
 
@@ -18,7 +18,7 @@ This prototype is focused on:
 ✔ Multi-layer PCB & hardware design  </br>
 ✔ ESP-IDF firmware development </br>
 ✔ Peripheral communication via I2C </br>
-✔ Power supply and regulation strategy </br>
+✔ Power supply and regulation </br>
 
 ## ◆ Current Status:
 - Fully operational Embedded System from working 4 layer PCB to a running ESP-IDF Super Loop
@@ -27,10 +27,21 @@ This prototype is focused on:
 - This project was structured around incremental, demonstrable milestones, rather than a single monolithic goal.
 
 ## ✅ Completed / Implemented: 
-◆ Completely Functional 4-Layer PCB <br />
-◆ A running ESP-IDF based super loop <br />
+🟢 Completely Functional 4-Layer PCB <br />
+🟢 A running ESP-IDF based super loop <br />
 
 ## 🚧 In Progress / Planned Enhancements
+🟡 Migration to FreeRTOS-Based Architecture <br />
+🟡 WiFi Integration & MQTT Communication <br />
 
-◆ Migration to FreeRTOS-Based Architecture <br />
-◆ WiFi Integration & MQTT Communication <br />
+
+## ◆ Repository Structure
+/Docs
+ ├── Datasheets
+
+/Hardware
+ ├── Gerbers
+ ├── Project_Media
+ ├── Schematic & PCB
+
+ /Firmware
