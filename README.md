@@ -1,15 +1,19 @@
 # 🌱 ESP32 Environment Monitoring System
 ### Using ESP32 + ESP-IDF + I2C Sensors
 
-🟥 ***This repository documents a fully functional embedded system prototype, developed primarily as a portfolio and skills-demonstration project rather than a commercial-ready product.***
-
 ◆ This project represents an exploration into embedded firmware architecture, low-power hardware design, and communication protocol integration using the ESP32 platform and the ESP-IDF framework.
 
 ## ◆ Project Overview
 
-- This project is an ESP32-based environment monitoring system designed to acquire environmental data from digital sensors and prepare it for network-based transmission.
+🟥 This project is a Environment Monitor prototype built using:
 
-### *Features:*
+ - **ESP-32** & **ESP-IDF** 
+ - BME280 Atmosphere Sensor
+ - LTR390 UV Sensor
+
+🟥 The objective was to to acquire environmental data from digital sensors and prepare it for network-based transmission.
+
+This prototype is focused on:
 
 ✔ Multi-layer PCB & hardware design  </br>
 ✔ ESP-IDF firmware development </br>
