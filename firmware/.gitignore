@@ -1,0 +1,10 @@
+# ESP-IDF build output
+build/
+sdkconfig.old
+
+# Editor / IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
